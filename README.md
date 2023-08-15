@@ -1,5 +1,5 @@
 
-# DIO - Resumos Git - Github
+# DIO - Resumos - Github
 
 Repositorios para resumos do curso
 [Como criar um link](https://github.com/)
