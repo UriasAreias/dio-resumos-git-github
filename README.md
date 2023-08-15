@@ -10,9 +10,11 @@ Repositorios para resumos do curso
 
 ## Resumos
 
-Aulas | Resumos |
+|Aulas | Resumos |
 ------|---------|
-|Gravando alterações no Repositório Locar | [Resumos]
+|Aulas 01| [Resumos]()|
+|Aulas 02| [Resumos]()|
+
 () |
 ```
 git init
